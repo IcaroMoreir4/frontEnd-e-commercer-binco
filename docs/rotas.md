@@ -1,8 +1,5 @@
-Entendido! Para um projeto de estudos mais simples, podemos simplificar a estrutura. Aqui está uma estrutura mais enxuta, ainda organizada para facilitar o desenvolvimento:
-
----
-
 ### **Estrutura Simples**
+
 ```
 src/
 ├── app/                      # Código principal do Angular
@@ -43,7 +40,3 @@ src/
 
 5. **`index.html`**  
    - Arquivo HTML inicial que serve como ponto de entrada.
-
----
-
-Se você quiser, posso gerar essa estrutura compacta e configurada para você baixar. Confirma? 😊
